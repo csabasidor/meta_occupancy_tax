@@ -20,6 +20,8 @@ Cleaning and formating queris for 3b results.
 Set of queries used for calcuation over the merged extracted data for identifying deviations and risks in occupanccy tax collection.
 
 
+## 05_tax_calculations.backup  
+Final data sets backup for restoring and reproducing all input data and calculations  
 
 # Source list of pilot municipalities regulation on occupancy tax  
 Banská Bystrica: http://www.banskabystrica.sk/vseobecne-zavazne-nariadenia-mesta-vzn.phtml?id3=1622  
